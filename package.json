@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2",
+    "mongoose": "^8.5.0",
+    "vite": "^5.3.3",
+    "zod": "^3.23.8"
+  },
+  "name": "todo_app",
+  "version": "1.0.0",
+  "description": "This is common todo application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RikenPatel",
+  "license": "ISC"
+}
